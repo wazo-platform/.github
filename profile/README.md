@@ -22,6 +22,6 @@
 
 ## Contributing
 
-We ❤️ Open Source and contributions more are than welcome!
+We ❤️ Open Source and contributions are more than welcome!
 
 Please see our [Contributing Guidelines](https://wazo-platform.org/contribute) for more information.
